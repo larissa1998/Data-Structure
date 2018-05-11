@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1524876790 source:c:\users\laris\desktop\estrutura de dados\whisky dinamico\whiskyencadeada\whisky.c
+	<stdio.h>
+	<stdlib.h>
+	"whisky.h"
+	<locale.h>
+	<string.h>
+	<windows.h>
+
+1524871192 c:\users\laris\desktop\estrutura de dados\whisky dinamico\whiskyencadeada\whisky.h
+
+1524881075 source:c:\users\laris\desktop\estrutura de dados\whisky dinamico\whiskyencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"whisky.h"
+	<locale.h>
+	<string.h>
+	<windows.h>
+	<dos.h>
+	<conio.h>
+
+1524881075 source:c:\users\laris\desktop\estrutura de dados\whisky encadeado\larissa_120147\main.c
+	<stdio.h>
+	<stdlib.h>
+	"whisky.h"
+	<locale.h>
+	<string.h>
+	<windows.h>
+	<dos.h>
+	<conio.h>
+
+1524871192 c:\users\laris\desktop\estrutura de dados\whisky encadeado\larissa_120147\whisky.h
+
+1524876790 source:c:\users\laris\desktop\estrutura de dados\whisky encadeado\larissa_120147\whisky.c
+	<stdio.h>
+	<stdlib.h>
+	"whisky.h"
+	<locale.h>
+	<string.h>
+	<windows.h>
+
+1525361220 source:c:\users\laris\desktop\estrutura de dados\trabalho 1 -  whisky\whisky - encadeada estatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"whisky.h"
+	<locale.h>
+	<string.h>
+	<windows.h>
+	<dos.h>
+	<conio.h>
+
+1525361257 c:\users\laris\desktop\estrutura de dados\trabalho 1 -  whisky\whisky - encadeada estatica\whisky.h
+
+1525361471 source:c:\users\laris\desktop\estrutura de dados\trabalho 1 -  whisky\whisky - encadeada estatica\whisky.c
+	<stdio.h>
+	<stdlib.h>
+	"whisky.h"
+	<locale.h>
+	<string.h>
+	<windows.h>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1521658275 source:c:\users\laris\desktop\estrutura de dados\programa em estrutura de dados\listasequencialestatica\listasequencialestatica.c
+	<conio.h>
+	"ListaSequencialEstatica.h"
+
+1521658125 source:c:\users\laris\desktop\estrutura de dados\programa em estrutura de dados\listasequencialestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencialEstatica.h"
+
+1521835301 c:\users\laris\desktop\estrutura de dados\programa em estrutura de dados\listasequencialestatica\listasequencialestatica.h
+	<conio.h>
+
+1521658125 source:c:\users\laris\desktop\estrutura de dados\listasequencialestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencialEstatica.h"
+
+1521835301 c:\users\laris\desktop\estrutura de dados\listasequencialestatica\listasequencialestatica.h
+	<conio.h>
+
+1524165429 source:c:\users\laris\desktop\estrutura de dados\listasequencialestatica\listasequencialestatica.c
+	<conio.h>
+	"ListaSequencialEstatica.h"
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1523022544 source:c:\users\a120147\desktop\lista enc\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	<conio.h>
+	<locale.h>
+
+1523022320 c:\users\a120147\desktop\lista enc\listaencadeada\lista.h
+
+1523022210 source:c:\users\a120147\desktop\lista enc\listaencadeada\lista.c
+	<conio.h>
+	"Lista.h"
+
+1524519544 source:c:\users\laris\desktop\estrutura de dados\lista encadeada\listaencadeada\lista.c
+	<conio.h>
+	"Lista.h"
+
+1524518537 c:\users\laris\desktop\estrutura de dados\lista encadeada\listaencadeada\lista.h
+
+1523009450 source:c:\users\laris\desktop\estrutura de dados\lista encadeada\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	<conio.h>
+	<locale.h>
+

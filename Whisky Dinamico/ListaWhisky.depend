@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1524847312 source:c:\users\thali\onedrive\documentos\estrutura de dados\listawhisky\listawhisky.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaWhisky.h"
+
+1524846569 c:\users\thali\onedrive\documentos\estrutura de dados\listawhisky\listawhisky.h
+
+1524960044 source:c:\users\thali\onedrive\documentos\estrutura de dados\listawhisky\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"ListaWhisky.h"
+

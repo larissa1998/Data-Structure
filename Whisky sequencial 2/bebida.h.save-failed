@@ -1,0 +1,191 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "whis.h"
+void Inseridos (){
+
+REGISTRO elem;
+LISTA lista;
+inicio(&lista);
+
+elem.codigo_whisky = 1;
+strcpy(elem.nome_whisky, "Jack Daniels");
+elem.idade_bebida = 12;
+elem.estoque = 3;
+insereBebida(&lista, elem);
+
+elem.codigo_whisky = 2;
+strcpy(elem.nome_whisky , "Red Label");
+elem.idade_bebida = 5;
+elem.estoque = 8;
+insereBebida(&lista, elem);
+
+//whis.codigo = 3;
+//strcpy(whis.nome_bebida , "Johnnie Walker");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 4;
+//strcpy(whis.nome_bebida , "Chivas Regal");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 5;
+//strcpy(whis.nome_bebida , " Ballantine's");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//
+//whis.codigo = 6;
+//strcpy(whis.nome_bebida , " White Horse");
+//whis.idade_bebida= 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 7;
+//strcpy(whis.nome_bebida , " J & B");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 8;
+//strcpy(whis.nome_bebida , " Passport");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 9;
+//strcpy(whis.nome_bebida, " Jameson");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo= 10;
+//strcpy(whis.nome_bebida , " Blue Label");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 11;
+//strcpy(whis.nome_bebida , " 100 Pipers");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 12;
+//strcpy(whis.nome_bebida , " Black and White");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo= 13;
+//strcpy(whis.nome_bebida , "Buchanans");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 14;
+//strcpy(whis.nome_bebida , " Grant’s");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 15;
+//strcpy(whis.nome_bebida , " Burrberrys");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 16;
+//strcpy(whis.nome_bebida , " Teacher’s");
+//whis.idade_bebida = 5;
+//whis.quantidade= 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo= 17;
+//strcpy(whis.nome_bebida , " Sir Edward’s");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 18;
+//strcpy(whis.nome_bebida , " Something Special");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 19;
+//strcpy(whis.nome_bebida , " Whyte & Mackay");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 20;
+//strcpy(whis.nome_bebida , "William Lawson’s");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 21;
+//strcpy(whis.nome_bebida , " Old Virginia");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 22;
+//strcpy(whis.nome_bebida , " Jim Beam Black");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 23;
+//strcpy(whis.nome_bebida , " Old Pulteney Malta");
+//whis.idade_bebida= 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 24;
+//strcpy(whis.nome_bebida , " Rob Roy");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 25;
+//strcpy(whis.nome_bebida , " William Lawson’s");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 26;
+//strcpy(whis.nome_bebida , " Of Ye Monks");
+//whis.idade_bebida = 5;
+//whis.quantidade= 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 27;
+//strcpy(whis.nome_bebida , " Sandy Mac");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 28;
+//strcpy(whis.nome_bebida , " Dunhill");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 29;
+//strcpy(whis.nome_bebida , " The Macallan");
+//whis.idade_bebida = 5;
+//whis.quantidade= 8;
+//insereBebida(&lista, whis);
+//
+//whis.codigo = 30;
+//strcpy(whis.nome_bebida , " Evan William’s");
+//whis.idade_bebida = 5;
+//whis.quantidade = 8;
+//insereBebida(&lista, whis);
+}

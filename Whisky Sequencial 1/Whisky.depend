@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1524430519 source:c:\users\laris\desktop\thiellen_401000\whisky\lista.c
+	<conio.h>
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1524430533 c:\users\laris\desktop\thiellen_401000\whisky\lista.h
+
+1524430509 source:c:\users\laris\desktop\thiellen_401000\whisky\main.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1524430519 source:c:\users\laris\desktop\estrutura de dados\whisky  implementação sequencial\whisky implementação sequencial\lista.c
+	<conio.h>
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1524430533 c:\users\laris\desktop\estrutura de dados\whisky  implementação sequencial\whisky implementação sequencial\lista.h
+
+1524453378 source:c:\users\laris\desktop\estrutura de dados\whisky  implementação sequencial\whisky implementação sequencial\main.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

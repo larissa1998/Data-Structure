@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1524445015 source:c:\users\laris\trabalhowhisky\bebida\whis.c
+	"whis.h"
+	<stdio.h>
+	<stdlib.h>
+
+1524444760 c:\users\laris\trabalhowhisky\bebida\whis.h
+
+1524444886 source:c:\users\laris\trabalhowhisky\bebida\main.c
+	<stdio.h>
+	<stdlib.h>
+	"whis.h"
+	<string.h>
+
+1524439879 c:\users\laris\trabalhowhisky\bebida\whis.c
+	"whis.h"
+	<stdio.h>
+	<stdlib.h>
+	"bebida.h"
+
+1524440210 c:\users\laris\trabalhowhisky\bebida\bebida.h
+
+1524439962 c:\users\laris\trabalhowhisky\bebida\main.c
+	<stdio.h>
+	<stdlib.h>
+	"whis.h"
+	"bebida.h"
+

@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1523376455 source:c:\users\laris\desktop\trabson estrutura\telefonica\lista.c
+	<stdio.h>
+	<conio.h>
+	"Lista.h"
+	<string.h>
+
+1523373528 c:\users\laris\desktop\trabson estrutura\telefonica\lista.h
+
+1523374791 source:c:\users\laris\desktop\trabson estrutura\telefonica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Lista.h"
+
+1523378787 source:c:\users\laris\desktop\trabalho estrutura\telefonica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Lista.h"
+
+1523394509 c:\users\laris\desktop\trabalho estrutura\telefonica\lista.h
+
+1523394256 source:c:\users\laris\desktop\trabalho estrutura\telefonica\lista.c
+	<stdio.h>
+	<conio.h>
+	"Lista.h"
+	<string.h>
+
+1523395203 source:c:\users\laris\desktop\lista telefonica sequencial\telefonica\lista.c
+	<stdio.h>
+	<conio.h>
+	"Lista.h"
+	<string.h>
+
+1523395219 c:\users\laris\desktop\lista telefonica sequencial\telefonica\lista.h
+
+1523395204 source:c:\users\laris\desktop\lista telefonica sequencial\telefonica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Lista.h"
+
+1523395203 source:c:\users\laris\desktop\estrutura de dados\lista telefonica sequencial\telefonica\lista.c
+	<stdio.h>
+	<conio.h>
+	"Lista.h"
+	<string.h>
+
+1523395219 c:\users\laris\desktop\estrutura de dados\lista telefonica sequencial\telefonica\lista.h
+
+1523395204 source:c:\users\laris\desktop\estrutura de dados\lista telefonica sequencial\telefonica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Lista.h"
+

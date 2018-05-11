@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1526051065 source:c:\users\laris\desktop\estrutura de dados\pilha estática\pilhaestatica\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1526050591 c:\users\laris\desktop\estrutura de dados\pilha estática\pilhaestatica\pilha.h
+
+1526051560 source:c:\users\laris\desktop\estrutura de dados\pilha estática\pilhaestatica\main.c
+	<stdlib.h>
+	<stdio.h>
+	"pilha.h"
+
