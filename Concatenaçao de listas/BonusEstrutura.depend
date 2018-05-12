@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1525904973 source:c:\users\laris\desktop\bonusestrutura\lista.c
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	"Lista.h"
+
+1525905201 c:\users\laris\desktop\bonusestrutura\lista.h
+
+1525905172 source:c:\users\laris\desktop\bonusestrutura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Lista.h"
+	<windows.h>
+
+1525906948 source:c:\users\laris\desktop\larissa_120147\lista.c
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	"Lista.h"
+
+1525905513 c:\users\laris\desktop\larissa_120147\lista.h
+
+1525905897 source:c:\users\laris\desktop\larissa_120147\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Lista.h"
+	<windows.h>
+
+1525906948 source:c:\users\laris\desktop\estrutura de dados\trabalhoextra\lista.c
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	"Lista.h"
+
+1525905513 c:\users\laris\desktop\estrutura de dados\trabalhoextra\lista.h
+
+1525905897 source:c:\users\laris\desktop\estrutura de dados\trabalhoextra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Lista.h"
+	<windows.h>
+
+1525918137 source:c:\users\laris\desktop\trabalhoextra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Lista.h"
+	<windows.h>
+
+1525905513 c:\users\laris\desktop\trabalhoextra\lista.h
+
