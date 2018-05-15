@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1526076019 source:c:\users\laris\desktop\larissa_120147\bibliotecapilha\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"pilha.h"
+
+1526075058 c:\users\laris\desktop\larissa_120147\bibliotecapilha\pilha.h
+	<string.h>
+
+1526076502 source:c:\users\laris\desktop\larissa_120147\bibliotecapilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"pilha.h"
+
+1526078765 source:c:\users\laris\desktop\pilhalivros\bibliotecapilha\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"pilha.h"
+
+1526078995 c:\users\laris\desktop\pilhalivros\bibliotecapilha\pilha.h
+	<string.h>
+
+1526078934 source:c:\users\laris\desktop\pilhalivros\bibliotecapilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"pilha.h"
+
