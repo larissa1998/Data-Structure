@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1526495971 source:c:\users\a120147\desktop\pilhadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1526495685 source:c:\users\a120147\desktop\pilhadinamica\pilha.c
+	"pilha.h"
+
+1526495551 c:\users\a120147\desktop\pilhadinamica\pilha.h
+	<stdio.h>
+
+1526513928 source:c:\users\laris\desktop\pilhadinamica\pilha.c
+	"pilha.h"
+
+1526481816 c:\users\laris\desktop\pilhadinamica\pilha.h
+	<stdio.h>
+
+1526513891 source:c:\users\laris\desktop\pilhadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
