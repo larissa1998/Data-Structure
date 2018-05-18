@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526663303 source:c:\users\a120147\desktop\filaestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"fila.h"
+
+1526663052 source:c:\users\a120147\desktop\filaestatica\fila.c
+	"fila.h"
+
+1526663046 c:\users\a120147\desktop\filaestatica\fila.h
+	<stdio.h>
+	<stdlib.h>
+
