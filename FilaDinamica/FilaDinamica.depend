@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1528309756 source:c:\users\a120147\desktop\filadinamica\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"fila.h"
+
+1528309750 c:\users\a120147\desktop\filadinamica\fila.h
+
+1528309723 source:c:\users\a120147\desktop\filadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
