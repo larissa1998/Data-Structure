@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1537988062 source:c:\users\thali\onedrive\Área de trabalho\uenp-academico\academico.c
+	"academico.h"
+	<stdio.h>
+	<stdlib.h>
+
+1537988082 c:\users\thali\onedrive\Área de trabalho\uenp-academico\academico.h
+	<stdio.h>
+	<stdlib.h>
+
+1537986770 source:c:\users\thali\onedrive\Área de trabalho\uenp-academico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"academico.h"
+
+1539668509 source:c:\users\laris.desktop-lm3earv\desktop\uenp-academico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"academico.h"
+	<string.h>
+	<windows.h>
+	<conio.h>
+
+1539668635 c:\users\laris.desktop-lm3earv\desktop\uenp-academico\academico.h
+
+1539668663 source:c:\users\laris.desktop-lm3earv\desktop\uenp-academico\academico.c
+	"academico.h"
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1539668645 source:c:\users\laris.desktop-lm3earv\desktop\uenp-academico\academicolista.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"academico.h"
+
+1539108093 source:c:\users\a120147\desktop\uenp-academico\academico.c
+	"academico.h"
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1539106420 c:\users\a120147\desktop\uenp-academico\academico.h
+
+1539107506 source:c:\users\a120147\desktop\uenp-academico\academicolista.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"academico.h"
+
+1539106865 source:c:\users\a120147\desktop\uenp-academico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"academico.h"
+	<string.h>
+	<windows.h>
+
