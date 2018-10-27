@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1540234784 source:c:\users\a120147\desktop\academy2\academy.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"academy.h"
+
+1540232522 c:\users\a120147\desktop\academy2\academy.h
+
+1540234778 source:c:\users\a120147\desktop\academy2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"academy.h"
+
+1540577742 source:c:\users\laris.desktop-lm3earv\desktop\academy2\academy.c
+	<stdio.h>
+	<stdlib.h>
+	"academy.h"
+	<string.h>
+
+1540577752 c:\users\laris.desktop-lm3earv\desktop\academy2\academy.h
+
+1540577751 source:c:\users\laris.desktop-lm3earv\desktop\academy2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"academy.h"
+	<locale.h>
+	<string.h>
+
+1540578789 source:c:\users\thiago\downloads\academy2\academy2\academy.c
+	<stdio.h>
+	<stdlib.h>
+	"academy.h"
+	<string.h>
+
+1540578789 c:\users\thiago\downloads\academy2\academy2\academy.h
+
+1540578596 source:c:\users\thiago\downloads\academy2\academy2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"academy.h"
+	<locale.h>
+	<string.h>
+
+1540578789 source:c:\users\laris.desktop-lm3earv\desktop\academy2 - thiago\academy.c
+	<stdio.h>
+	<stdlib.h>
+	"academy.h"
+	<string.h>
+
+1540578789 c:\users\laris.desktop-lm3earv\desktop\academy2 - thiago\academy.h
+
+1540579526 source:c:\users\laris.desktop-lm3earv\desktop\academy2 - thiago\main.c
+	<stdio.h>
+	<stdlib.h>
+	"academy.h"
+	<locale.h>
+	<string.h>
+
+1540581556 source:c:\users\laris.desktop-lm3earv\desktop\academico -trabfinal\academy.c
+	<stdio.h>
+	<stdlib.h>
+	"academy.h"
+	<string.h>
+
+1540581562 c:\users\laris.desktop-lm3earv\desktop\academico -trabfinal\academy.h
+
+1540580230 source:c:\users\laris.desktop-lm3earv\desktop\academico -trabfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"academy.h"
+	<locale.h>
+	<string.h>
+
